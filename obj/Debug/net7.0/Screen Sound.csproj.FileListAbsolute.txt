@@ -1,0 +1,15 @@
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Screen Sound\bin\Debug\net7.0\Screen Sound.exe
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Screen Sound\bin\Debug\net7.0\Screen Sound.deps.json
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Screen Sound\bin\Debug\net7.0\Screen Sound.runtimeconfig.json
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Screen Sound\bin\Debug\net7.0\Screen Sound.dll
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Screen Sound\bin\Debug\net7.0\Screen Sound.pdb
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Screen Sound\obj\Debug\net7.0\Screen Sound.csproj.AssemblyReference.cache
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Screen Sound\obj\Debug\net7.0\Screen Sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Screen Sound\obj\Debug\net7.0\Screen Sound.AssemblyInfoInputs.cache
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Screen Sound\obj\Debug\net7.0\Screen Sound.AssemblyInfo.cs
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Screen Sound\obj\Debug\net7.0\Screen Sound.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Screen Sound\obj\Debug\net7.0\Screen Sound.dll
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Screen Sound\obj\Debug\net7.0\refint\Screen Sound.dll
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Screen Sound\obj\Debug\net7.0\Screen Sound.pdb
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Screen Sound\obj\Debug\net7.0\Screen Sound.genruntimeconfig.cache
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Screen Sound\obj\Debug\net7.0\ref\Screen Sound.dll

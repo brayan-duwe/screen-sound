@@ -1,0 +1,15 @@
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Primeiro Projeto\bin\Debug\net7.0\Primeiro Projeto.exe
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Primeiro Projeto\bin\Debug\net7.0\Primeiro Projeto.deps.json
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Primeiro Projeto\bin\Debug\net7.0\Primeiro Projeto.runtimeconfig.json
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Primeiro Projeto\bin\Debug\net7.0\Primeiro Projeto.dll
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Primeiro Projeto\bin\Debug\net7.0\Primeiro Projeto.pdb
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Primeiro Projeto\obj\Debug\net7.0\Primeiro Projeto.csproj.AssemblyReference.cache
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Primeiro Projeto\obj\Debug\net7.0\Primeiro Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Primeiro Projeto\obj\Debug\net7.0\Primeiro Projeto.AssemblyInfoInputs.cache
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Primeiro Projeto\obj\Debug\net7.0\Primeiro Projeto.AssemblyInfo.cs
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Primeiro Projeto\obj\Debug\net7.0\Primeiro Projeto.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Primeiro Projeto\obj\Debug\net7.0\Primeiro Projeto.dll
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Primeiro Projeto\obj\Debug\net7.0\refint\Primeiro Projeto.dll
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Primeiro Projeto\obj\Debug\net7.0\Primeiro Projeto.pdb
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Primeiro Projeto\obj\Debug\net7.0\Primeiro Projeto.genruntimeconfig.cache
+C:\Users\braya\OneDrive\Área de Trabalho\Programação\C#\Primeiro Projeto\obj\Debug\net7.0\ref\Primeiro Projeto.dll
